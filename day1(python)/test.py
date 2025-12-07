@@ -1,0 +1,3 @@
+num = ''
+
+print(int(num))
