@@ -1,5 +1,5 @@
-from AbstractAccount import AbstractAccount
-from Errors import InsufficientFundsError, AccountFrozenError, AccountClosedError, InvalidOperationError
+from .AbstractAccount import AbstractAccount
+from .Errors import InsufficientFundsError, AccountFrozenError, AccountClosedError, InvalidOperationError
 import uuid
 
 

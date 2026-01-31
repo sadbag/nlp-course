@@ -1,5 +1,5 @@
-from Errors import InsufficientFundsError, AccountFrozenError, AccountClosedError, InvalidOperationError
-from BankAccount import BankAccount
+from src.Errors import InsufficientFundsError, AccountFrozenError, AccountClosedError, InvalidOperationError
+from src.BankAccount import BankAccount
 
 
 print("===Создание активного и замороженного счёта===")
